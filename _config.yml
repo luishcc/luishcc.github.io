@@ -4,6 +4,7 @@ email: carnevale@ifpan.edu.pl
 description: Academic webpage of Dr. Carnevale
 baseurl: /
 url: https://luishcc.github.io
+#source: /
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -57,7 +58,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
+gist:
+  noscript: false
 plugins: ["jekyll/scholar"]
 
 scholar:
