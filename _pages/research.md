@@ -34,7 +34,20 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>MDPD-Martini Force-Field</h4>
+
+<img src="/images/martini.png" alt="MDPD-Martini lipid membrane" width=320>
+
+[Under Construction]
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Liquid jet breakup</h4>
+
+<img src="/images/break.png" alt="RP break" width=320>
 
 [Under Construction]
 </div>
