@@ -36,6 +36,6 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Example Research</h4>
 
-Example description
+[Under Construction]
 </div>
 </div>

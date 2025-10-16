@@ -1,24 +1,11 @@
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2022
+- name: Gabriela Niechwiadowicz
+  location: IFPAN
+  degree: Undergraduate research internship 
+  year: 2024
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2021
+- name: Natalia Kramarz
+  location: IFPAN
+  degree: Pre-doctoral practice 
+  year: 2024
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2020
 
-- name: Student Here
-  location: Univesity Here
-  degree: M.S.
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: B.S.
-  year: 2020
