@@ -2,8 +2,8 @@
 title: Luís H. Carnevale
 email: carnevale@ifpan.edu.pl
 description: Academic webpage of Dr. Carnevale
-baseurl: ""
-url: ""
+baseurl: /
+url: https://luishcc.github.io
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
