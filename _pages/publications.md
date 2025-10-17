@@ -15,14 +15,12 @@ permalink: /publications/
 }
 </style>
 
-<div class="jumbotron">
+<!-- <div class="jumbotron">
 #### Preprints
 {% bibliography --query @unpublished %}
-</div>
+</div> -->
 
 <div class="jumbotron">
 #### Journal articles
 {% bibliography --query @article %}
 </div>
-
-
