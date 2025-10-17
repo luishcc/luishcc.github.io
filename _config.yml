@@ -1,7 +1,7 @@
 # Site settings
 title: Luís H. Carnevale
 email: carnevale@ifpan.edu.pl
-description: Academic webpage of Dr. Carnevale
+description: Academic webpage of Dr. Luís Carnevale
 baseurl: /
 url: https://luishcc.github.io
 #source: /
@@ -65,7 +65,7 @@ kramdown:
 
 gist:
   noscript: false
-plugins: ["jekyll/scholar"]
+plugins: ["jekyll/scholar","jekyll-seo-tag"]
 
 scholar:
   last_name: Doe
