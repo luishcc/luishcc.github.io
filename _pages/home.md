@@ -7,7 +7,7 @@ permalink: /
 
 ### About me
 
-I am a physicist in the Soft Matter and Fluids Physics department at the Institute of Physics of the Polish Academy of Sciences (IFPAN) in Warsaw. I earned my PhD from IFPAN in 2025, following my MSc (2021) and BEng (2019) degrees in Mechanical Engineering from the Rio de Janeiro State University (UERJ).
+I am a physicist in the Soft Matter and Fluids Physics department at the Institute of Physics of the Polish Academy of Sciences (IFPAN) in Warsaw. I earned my PhD from IFPAN in 2025, following my MSc (2020) and BEng (2018) degrees in Mechanical Engineering from the Rio de Janeiro State University (UERJ).
 
 My research focuses on computer simulations of liquid droplets at the nano- and micro-scales. At these small scales, I use particle-based methods like many-body dissipative particle dynamics (MDPD) and molecular dynamics (MD). These techniques allow me to explicitly model the influence of different chemical species, such as surfactants. I am also developing a coarse-grained force-field for MDPD based on the molecular dynamics Martini force-field. Together with my collaborators, we have demonstrated the initial version's applicability by simulating lipid bilayer membranes and anionic surfactants.
 
