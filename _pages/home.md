@@ -13,7 +13,7 @@ My research focuses on computer simulations of liquid droplets at the nano- and 
 
 During my MSc, I developed an in-house finite element Python code for fluid simulations. This code used the Arbitrary Lagrangian-Eulerian method (ALE/FEM) to solve the stream function-vorticity formulation of the Navier-Stokes equations. That work gave me a continuum/CFD perspective on fluid simulations, which complements my current interest in fluids at the molecular scale.
 
-##### Satellite droplet foramtion
+##### Satellite droplet formation
 
 <div id="vidid">
   <video  height="83" autoplay loop="true" muted style="float: left">
