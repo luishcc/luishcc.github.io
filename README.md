@@ -1,6 +1,6 @@
 # A website template for academics
 
-This website was made from the template provided by [sbryngelson](https://github.com/sbryngelson).
+This website was made from the template provided by [sbryngelson](https://github.com/sbryngelson/academic-website-template).
 
 ## Fork and build
 
