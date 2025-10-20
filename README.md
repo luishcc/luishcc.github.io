@@ -1,10 +1,10 @@
 # A website template for academics
 
-This website was made from the template provided by [sbryngelson](https://github.com/sbryngelson/academic-website-template).
+This website was made from the template provided by [sbryngelson](https://github.com/sbryngelson).
 
 ## Fork and build
 
-- Fork [the original repository](https://github.com/sbryngelson/sbryngelson.github.io) by clicking the `fork` button in the top-right corner of its Github page.
+- Fork [the original repository](https://github.com/sbryngelson/academic-website-template) by clicking the `fork` button in the top-right corner of its Github page.
 - Install [Jekyll](https://jekyllrb.com/docs/installation/) (version less than 4.0 required) on your local computer
 - Run `$ bundle exec jekyll serve` in the repository root directory
 - Your site is now hosted locally at `localhost:4000`, which you can access with your web browser.
