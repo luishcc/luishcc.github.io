@@ -49,6 +49,7 @@ permalink: /about/
 <div class="jumbotron">
   <h4>Research experience</h4>
   <ul>
+    <li> 2026 (on-going), Kyushu University &ndash; MSCA funded secondments through ThermEnTrans research network </li>
     <li> 2023, Fedral University of Rio de Janeiro (UFRJ) &ndash; MSCA funded secondments through ThermaSMART research network for 2 months </li>
     <li> 2022, University College Dublin (UCD) &ndash; MSCA funded secondments through ThermaSMART research network for 5 months </li>
     <li> 2018, Rio de Janeiro State University (UERJ) &ndash; FAPERJ funded undergraduate research for 1 year </li>

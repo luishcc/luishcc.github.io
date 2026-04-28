@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: gridlay
+layout: gridlay2
 sitemap: false
 permalink: /publications/
 ---
@@ -24,3 +24,4 @@ permalink: /publications/
 #### Journal articles
 {% bibliography --query @article %}
 </div>
+

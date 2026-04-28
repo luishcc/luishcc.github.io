@@ -20,13 +20,15 @@ img {
 }
 
 .container-fluid {
-  max-width: 800px;
+  /* allow more horizontal space on larger screens */
+  max-width: 1200px;
 }
 
 .container-footer {
   margin-right: auto;
   margin-left: auto;
-  max-width: 800px;
+  /* match the main container width so footer aligns with content */
+  max-width: 1200px;
   padding-left:  20px;
   padding-right: 20px;
 }
@@ -87,4 +89,59 @@ img {
 
 .MathJax_ref {
   fill: #00bc8c!important;
+}
+
+/* Ensure images inside modals scale nicely and don't exceed viewport */
+.modal-body img {
+  max-width: 100%;
+  height: auto;
+  max-height: 75vh; /* keep some space for header/footer */
+  display: inline-block;
+}
+
+/* Wider home content and slightly larger text */
+#homeid {
+  font-size: 1.2rem; /* slightly larger body text */
+}
+
+#homeid h3, #homeid h2, #homeid h4 {
+  font-size: 1.35em; /* make headings a bit larger */
+}
+
+/* Larger content area on wide screens, but responsive */
+@media (min-width: 1200px) {
+  .container-fluid, .container-footer {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container-fluid, .container-footer {
+    max-width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+/* Keep jumbotron content vertically centered and prevent images from overflowing */
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.jumbotron img {
+  max-width: 100%;
+  height: auto;
+  max-height: 100%; /* cap image height so it doesn't exceed the jumbotron visually */
+  object-fit: contain;
+  display: block;
+}
+
+/* make body text more readable site-wide */
+body {
+  line-height: 1.6;
+   font-size: 1.2rem;
 }
