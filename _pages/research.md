@@ -6,12 +6,13 @@ permalink: /research/
 ---
 
 <style>
-img{
+/* Scope page-only image rules so they don't affect header/nav icons */
+#gridid img{
   border-radius: 10px;
   /* float: left; */
   padding: 15px;
 }
-.col-md-3 {
+#gridid .col-md-3 {
   margin-top:10px;
   margin-bottom:10px;
   padding:0px;
@@ -23,7 +24,7 @@ img{
   border-radius: 20px;
   height: auto;
 }
-iframe {
+#gridid iframe {
   margin:0;
   padding:0;
   width: 175px;
